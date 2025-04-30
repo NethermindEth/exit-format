@@ -40,6 +40,6 @@
   "dependencies": {
     "ethers": "^5.1.4",
     "lodash": "^4.17.21",
-    "@openzeppelin/contracts": "4.6.0"
+    "@openzeppelin/contracts": "4.9.6"
   }
 }
